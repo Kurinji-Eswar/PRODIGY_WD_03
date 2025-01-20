@@ -21,7 +21,7 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - Reset the game by clicking the RESET button.
 
 ## Project Structure
-/TicTacToe
+/PRODIGY_WD_03
 |-- /css
 |   |-- styles.css
 |-- /js
